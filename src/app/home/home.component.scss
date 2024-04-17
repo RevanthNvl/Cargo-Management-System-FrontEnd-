@@ -1,0 +1,42 @@
+.container {
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Adjust as needed */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px; /* Adjust as needed */
+}
+
+nav {
+  margin-top: 20px; /* Adjust as needed */
+}
+
+nav button {
+  margin: 0 10px; /* Adjust as needed */
+  padding: 10px 20px; /* Adjust as needed */
+  font-size: 16px; /* Adjust as needed */
+  background-color: #fff; /* Adjust as needed */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+nav button:hover {
+  background-color: #f0f0f0; /* Adjust as needed */
+}
+
+main {
+  text-align: center;
+  color: #fff; /* Adjust as needed */
+}
+
+p {
+  margin-bottom: 10px; /* Adjust as needed */
+}
+
